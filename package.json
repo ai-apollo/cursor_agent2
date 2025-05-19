@@ -1,0 +1,21 @@
+{
+  "name": "cursor_agent",
+  "version": "1.0.0",
+  "description": "agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-apollo/cursor_agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ai-apollo/cursor_agent/issues"
+  },
+  "homepage": "https://github.com/ai-apollo/cursor_agent#readme"
+}
